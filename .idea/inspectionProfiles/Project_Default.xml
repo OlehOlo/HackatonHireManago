@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tests.ui.loyalty_program.test_loyalty_program.LoyaltyProgramActionsOnSampleTest.page" />
+          <option value="tests.ui.checklist.lead_generation.test_pop_up_advanced.PopUpExpressTest.pop_up_advanced_name" />
+          <option value="tests.ui.checklist.website_personalization.test_social_proof_display_on_website.TestDisplaySocialProofOnWebsite.*" />
+          <option value="tests.pytest.ui.ui.checklist.other.test_coupons.CouponsTests.*" />
+          <option value="tests.pytest.ui.ui.checklist.smoke.test_email_opt_in_confirmation.EmailOptInConfirmation.*" />
+          <option value="tests.pytest.ui.ui.tasks_automation.test_run_periodical_rule.RunPeriodicalRule.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
